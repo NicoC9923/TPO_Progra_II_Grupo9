@@ -1,7 +1,7 @@
 package modelo;
 
 import java.util.*;
-//se creó una clase extra para el algoritmo Dijkstra, así de esta forma se aplica
+//se creó una clase extra para el algoritmo Dijkstra, así de esta forma se aplica la teoria de TDA
 import interfaces.IDijkstra;
 import interfaces.IGrafo;
 import interfaces.INodo;
